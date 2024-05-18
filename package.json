@@ -1,0 +1,17 @@
+{
+  "name": "langchain-pdf-rag-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@langchain/openai": "^0.0.32",
+    "langchain": "^0.2.0",
+    "pdf-parse": "^1.1.1"
+  }
+}
